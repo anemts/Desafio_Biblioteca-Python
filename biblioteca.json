@@ -1,8 +1,20 @@
 [
     {
-        "titulo": "debate",
-        "autor": "cesar",
-        "ano": "2026",
+        "titulo": "Diario de Anna",
+        "autor": "Anna M",
+        "ano": "2002",
+        "disponivel": "Sim"
+    },
+    {
+        "titulo": "A vida ensinou",
+        "autor": "Roger",
+        "ano": "1998",
+        "disponivel": "Sim"
+    },
+    {
+        "titulo": "Verity",
+        "autor": "Colleen Hoover",
+        "ano": "2018",
         "disponivel": "Sim"
     }
 ]
