@@ -6,7 +6,7 @@ try:
 except FileNotFoundError:
     biblioteca = []
 
-#Definindo funções]#
+#----Definindo funções----#
 
 def salvar_dados():
     with open("biblioteca.json", "w", encoding="utf-8") as arquivo:
@@ -86,7 +86,7 @@ def remover_livro():
             
     print("Livro não encontrado.")
 
-#Menu#
+#---Menu---#
 
 opcao= ""
 
@@ -117,6 +117,4 @@ while opcao != "7":
     elif opcao == "7":
         print("Saindo do programa...Até mais!")
     else:
-        print("Opção inválida. Tente novamente.")
-
         print("Opção inválida. Tente novamente.")
